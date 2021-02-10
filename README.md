@@ -1,16 +1,19 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO`Sistemas de informação
 
-`DISCIPLINA`
+`DISCIPLINA` DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS
 
-`SEMESTRE`
+`SEMESTRE` 7º
 
 ## Participantes
 
-Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Os membros do grupo são: 
+ - Rafael Siqueira de Freitas
+ - Tiago Luca Evaristo da Silva
+ - Matheus Augusto Bassi Silva
+ - Giovana Coelho da Silva
+
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
