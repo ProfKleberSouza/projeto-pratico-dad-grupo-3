@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Projeto ONG PUC-PSI
 
 `CURSO`Sistemas de informação
 
