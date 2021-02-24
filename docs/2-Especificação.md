@@ -32,7 +32,7 @@ que aceitem alunos estrangeiros.
 
 ## Histórias de Usuários
 
-A partir  da  compreensão  do  dia  a  dia  das  personas  identificadas  para  ocprojeto,  foram registradas as seguintes histórias de usuários.
+A partir  da  compreensão  do  dia  a  dia  das  personas  identificadas  para  o projeto,  foram registradas as seguintes histórias de usuários.
 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                   |PARA ... `MOTIVO/VALOR`                                                                           |
