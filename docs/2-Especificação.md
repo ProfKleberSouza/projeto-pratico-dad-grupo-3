@@ -34,10 +34,16 @@ que aceitem alunos estrangeiros.
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                   |PARA ... `MOTIVO/VALOR`                                                                           |
+|--------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|Kleber jacques      | visualizar as notícias mais relevantes do momento                                    | visualizar as notícias mais relevantes do momento                                                |
+|Marco Antonio       | visualizar notícias mais alinhadas com minha área de atuação                         | gastar menos tempo lendo notícias e dar foco naquelas que estão relacionadas com o meu trabalho  |
+|Kleber jacques      | manter um registro de notícias específicas sobre as quais possuo interesse particular| visualizar depois e manter um histórico de notícias que possam ser compartilhadas posteriormente |
+|Kleber jacques      | fazer comentários em notícias e reportar minha opinião                               | discutir com grupos de interesse comum                                                           |
+|Marco Antonio       | compartilhar notícias nas redes sociais em que faço parte                            | poder discutir com os amigos e colegas de trabalhos sobre temas de interesse                     |
+|Marco Antonio       | poder realizar uma pesquisa sobre notícias acerca de um tema específico              | localizar tópicos específicos e conseguir maior objetividade em algumas leituras                 |
+|Kleber jacques      | ler notícias tanto no desktop quanto no celular                                      | ocupar o tempo quando estou esperando algo (ex: filas de supermercado)                           |
+|Marco Antonio       | quero saber a data e a fonte das notícias lidas                                      | confiar no conteúdo passado e na atualidade das notícias que recebo                              |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
