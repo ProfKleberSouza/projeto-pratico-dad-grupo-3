@@ -27,6 +27,8 @@
 
 ## Público-Alvo
 
-O aplicativo será direcionado a equipes de psicólogos voluntários que atuam em ONGs e equipes gestoras responsáveis ​​pela coordenação dos serviços. Além disso, é necessária a prestação de serviços aos residentes da comunidade que necessitam de atendimento psicológico
+>O aplicativo será direcionado a equipes de psicólogos voluntários que atuam em ONGs
+> e equipes gestoras responsáveis ​​pela coordenação dos serviços. Além disso, é necessária a
+>prestação de serviços aos residentes da comunidade que necessitam de atendimento psicológico
 
  
