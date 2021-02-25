@@ -73,10 +73,16 @@ A  tabela  a  seguir  apresenta  os  requisitos  do  projeto,  identificando  a 
 
 ### Requisitos não Funcionais
 
+O quadro abaixo descreve os requisitos não funcionais que o projeto atenderá.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Login integrado com redes sociais | MÉDIA | 
+|RNF-002| O aplicativo deve ser desenvolvido para Android e IOs |  ALTA | 
+|RNF-003| O usuário não deve esperar mais que 3 segundos na mudança entre uma tela e outra no aplicativo |  MÉDIA | 
+|RNF-004| O aplicativo deve ser compacto, não ocupando muita memória nos dispositivos dos usuários |  BAIXA | 
+|RNF-005| O aplicativo deve ser desenvolvido em Java |  BAIXA | 
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -98,12 +104,13 @@ A  tabela  a  seguir  apresenta  os  requisitos  do  projeto,  identificando  a 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+No quadro abaixo apresentamos as limitações à execução do projeto. 
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| O projeto deverá ser entregue antes do fim do semestre letivo. |
+|RE-02| O projeto deverá ser executado pelos 4 integrantes da equipe desenvolvedora. |
+|RE-02| O projeto deverá ser entregue com todos os seus requisitos funcionais. |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
