@@ -48,6 +48,8 @@ A  tabela  a  seguir  apresenta  os  requisitos  do  projeto,  identificando  a 
 |RF-006| Permitir que o usuário atualize seus dados no sistema  | Média |
 |RF-007| Permitir que o psicólogo atualize seus dados no sistema | Média |
 |RF-008| O site deve gerar um relatório gerencial mensal.   | Baixa |
+|RF-009| Permitir que o usuario delete seus dados no sistema   | Baixa |
+|RF-010| Permitir que o psicologo delete seus dados no sistema   | Baixa |
 
 ### Requisitos não Funcionais
 
