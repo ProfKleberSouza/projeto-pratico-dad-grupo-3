@@ -56,7 +56,7 @@ O quadro abaixo descreve os requisitos não funcionais que o projeto atenderá.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Login integrado com redes sociais | MÉDIA | 
-|RNF-002| A solução deve ser desenvolvido em Java |  BAIXA | 
+|RNF-002| A solução deve ser desenvolvido em JavaScript |  BAIXA | 
 |RNF-003| O usuário não deve esperar mais que 3 segundos na mudança entre uma tela e outra no aplicativo |  MÉDIA | 
 |RNF-004| O sistema deve ser compacto, de fácil carregamento nos dispositivos dos usuários |  BAIXA | 
 ||
