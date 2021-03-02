@@ -7,7 +7,7 @@
 > realizar a especificações do projeto
 
 ## Personas
->** Membros da Comunidade** com idade entre 20 e 54 anos, que precisam de atendimento psicológico. Este Membro tem que lidar com diversas questoes da vida, e busca orientação nos profissionais de saude para lidar com problemas de origens diversas. 
+> **Membros da Comunidade** com idade entre 20 e 54 anos, que precisam de atendimento psicológico. Este Membro tem que lidar com diversas questoes da vida, e busca orientação nos profissionais de saude para lidar com problemas de origens diversas. 
 
 > **Profissional de Psicologia** cadastrados na ONG, com idade entre 23 e 35 anos. Estes profissionais são universitarios e precisam, vez por outra, de orientação por parte do coordenador. Alem disso, estes profissionais dispoem de um tempo limitado que deve ser bem aproveitado nos atendimentos.
 
