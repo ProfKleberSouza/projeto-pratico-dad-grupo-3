@@ -41,18 +41,14 @@ A  tabela  a  seguir  apresenta  os  requisitos  do  projeto,  identificando  a 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve apresentar na página principal notícias dinâmicas obtidas por meio de canais de notícias da Internet (API) | Alta | 
-|RF-002| O site deve apresentar, para cada notícia, uma imagem correspondente ao assunto apresentado (thumbnail)   | Média |
-|RF-003| O site deve permitir ao usuário visualizar o texto completo da notícia com todos os detalhes da publicação  | Média |
-|RF-004| O site deve oferecer um menu adicional que permita ao usuário visualizar notícias de fontes distintas (sources).  | Média |
-|RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa.  | Alta |
-|RF-006| O site deve apresentar permitir visualizar as informações de contatos do mantenedor do site  | Média |
-|RF-007| O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais   | Baixa |
-|RF-008| O site deve permitir salvar notícias preferidas  | Baixa |
-|RF-009| O site deve permitir verificar as notícias salvas como preferidas   | Baixa |
-|RF-010| O site deve permitir que usuários possam comentar notícias   | Baixa |
-|RF-011| O site deve exibir os comentários registrados juntamente com a notícia exibida  | Baixa |
-
+|RF-001| Permitir que o usuário se cadastre no sistema | Alta | 
+|RF-002| Permitir que o psicólogo se cadastre no sistema | Alta | 
+|RF-003| Permitir que o usuário crie agendamentos com os psicólogos disponíveis da plataforma  | Alta |
+|RF-004| Permitir que o usuário interaja com o psicólogo | Alta |
+|RF-005| Permitir que o usuário veja os psicólogos disponíveis | Média |
+|RF-006| Permitir que o usuário atualize seus dados no sistema  | Média |
+|RF-007| Permitir que o psicólogo atualize seus dados no sistema | Média |
+|RF-008| O site deve gerar um relatório gerencial mensal.   | Baixa |
 
 ### Requisitos não Funcionais
 
@@ -61,11 +57,10 @@ O quadro abaixo descreve os requisitos não funcionais que o projeto atenderá.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Login integrado com redes sociais | MÉDIA | 
-|RNF-002| O aplicativo deve ser desenvolvido para Android e IOs |  ALTA | 
+|RNF-002| A solução deve ser desenvolvido em Java |  BAIXA | 
 |RNF-003| O usuário não deve esperar mais que 3 segundos na mudança entre uma tela e outra no aplicativo |  MÉDIA | 
-|RNF-004| O aplicativo deve ser compacto, não ocupando muita memória nos dispositivos dos usuários |  BAIXA | 
-|RNF-005| O aplicativo deve ser desenvolvido em Java |  BAIXA | 
-
+|RNF-004| O sistema deve ser compacto, de fácil carregamento nos dispositivos dos usuários |  BAIXA | 
+||
 
 ## Restrições
 
