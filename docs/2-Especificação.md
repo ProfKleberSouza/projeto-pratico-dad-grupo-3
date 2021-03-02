@@ -7,7 +7,11 @@
 > realizar a especificações do projeto
 
 ## Personas
-> O aplicativo será direcionado a equipes de psicólogos voluntários que atuam em ONGs e equipes gestoras responsáveis ​​pela coordenação dos serviços. Além disso, é necessária a  prestação de serviços aos residentes da comunidade que necessitam de atendimento psicológico
+>** Membros da Comunidade** com idade entre 20 e 54 anos, que precisam de atendimento psicológico. Este Membro tem que lidar com diversas questoes da vida, e busca orientação nos profissionais de saude para lidar com problemas de origens diversas. 
+
+> **Profissional de Psicologia** cadastrados na ONG, com idade entre 23 e 35 anos. Estes profissionais são universitarios e precisam, vez por outra, de orientação por parte do coordenador. Alem disso, estes profissionais dispoem de um tempo limitado que deve ser bem aproveitado nos atendimentos.
+
+> **Coordenador dos profissionais** dispostos na ONG, com idade entre 40 e 60 anos. Os coordenadores estão dispondo de um tempo relativo nos projetos e lidam com varios casos, dentro e fora da ONG. Estes coordenadores são tambem academicos. Gostam de ler livros e noticias. 
 
 ## Histórias de Usuários
 
